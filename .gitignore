@@ -1,0 +1,11 @@
+target/
+output/
+nbproject/private/
+*.class
+*.log
+.env
+application-local.properties
+.idea/
+.vscode/
+.DS_Store
+dist/
